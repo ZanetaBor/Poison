@@ -1,0 +1,17 @@
+
+{
+  "name": "Poison",
+  "short_name": "Pois",
+  "theme_color": "#2b1b18",
+  "background_color": "#2b1b18",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/Poison/"
+  "icons" : [
+    {
+        "src" : "logo.png",
+        "sizes": "512x512",
+        "type": "img/poison"
+    }
+  ]
+}
