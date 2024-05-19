@@ -6,7 +6,7 @@
   "background_color": "#2b1b18",
   "display": "fullscreen",
   "scope": "/",
-  "start_url": "/Poison/"
+  "start_url": "/Poison/",
   "icons" : [
     {
         "src" : "logo.png",
