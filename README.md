@@ -27,4 +27,4 @@ A simple Progressive Web Application (PWA) designed to educate myself. This proj
 1. Clone the repository:
    ```bash
    git clone https://github.com/ZanetaBor/Poison.git
-   cd toxic-substances
+
